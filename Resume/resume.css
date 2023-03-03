@@ -1,0 +1,29 @@
+.res{
+    border: 1px solid rgb(219, 130, 130);
+    background-color: rgb(141, 135, 225);
+    text-align: center;
+    font-size:50px;
+}
+img{
+    width: 150px;
+    margin-left:1000px;
+    border: 3px solid rgb(11, 11, 11);
+    
+   
+}
+
+.bord{
+    border:1px none;
+    background-color: rgb(157, 153, 147);
+    padding:10px;
+    font-size:20px;
+    margin: 10px;;
+    
+
+}
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    margin : 30px 10px;
+}
